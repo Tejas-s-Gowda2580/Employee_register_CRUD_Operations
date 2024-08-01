@@ -1,4 +1,3 @@
-# Employee_register_CRUD_Operations
-branching
-include all CRUD opertions 
+# Employee_register_CRUD_Operation
+Include all CRUD opertions 
 Django Python Project
